@@ -1,0 +1,8 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 600px !important;
+    max-width: 400px !important;
+}
