@@ -1,7 +1,7 @@
 
 # Javascript ve OpenWeather API Kullanarak Hava Durumu Bilgisi Çeken Uygulama
 
-Bu uygulama, Javascript ve OpenWeather API kullanarak, kullanıcının bulunduğu konumun hava durumu bilgisini çeken bir çalışmadır.
+Bu uygulama, Javascript ve OpenWeather API kullanarak, kullanıcının girdiği konumun hava durumu bilgisini çeken bir çalışmadır.
 
 ## Proje Hakkında
 
